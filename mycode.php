@@ -4,6 +4,6 @@ echo "hello world !"
 
 echo "new code inserted from development branch";
 
-echo "code need to be stashed";
+echo "code need to be added";
 
 ?>
